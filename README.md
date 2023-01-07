@@ -1,4 +1,5 @@
 # anime-face-generator-using-GANs
+Data set can be downloaded from https://www.kaggle.com/datasets/splcher/animefacedataset
 
 # Overview:
 This project aims to create anime faces using Generative Adversarial Networks (GANs).
